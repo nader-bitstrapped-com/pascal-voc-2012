@@ -1,7 +1,7 @@
 <annotation>
 	<folder>VOC2012</folder>
 	<filename>2012_000051.jpg</filename>
-	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2012_000051.jpg</path>
+	
 	<source>
 		<database>Unknown</database>
 	</source>
