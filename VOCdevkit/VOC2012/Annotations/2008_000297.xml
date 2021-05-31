@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2008_000297.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2008_000297.jpg</path>
 	<source>
-		<database>The VOC2008 Database</database>
-		<annotation>PASCAL VOC2008</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -14,67 +13,62 @@
 	<segmented>0</segmented>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2</xmin>
-			<ymin>87</ymin>
-			<xmax>302</xmax>
+			<ymin>82</ymin>
+			<xmax>301</xmax>
 			<ymax>296</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>chair</name>
-		<pose>Rear</pose>
-		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>87</xmin>
 			<ymin>205</ymin>
 			<xmax>230</xmax>
 			<ymax>331</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>chair</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>260</xmin>
 			<ymin>188</ymin>
 			<xmax>372</xmax>
 			<ymax>331</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>chair</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>5</xmin>
 			<ymin>141</ymin>
 			<xmax>121</xmax>
 			<ymax>293</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>225</xmin>
-			<ymin>113</ymin>
-			<xmax>355</xmax>
+			<ymin>109</ymin>
+			<xmax>353</xmax>
 			<ymax>335</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 </annotation>

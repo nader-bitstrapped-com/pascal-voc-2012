@@ -1,54 +1,62 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2010_005118.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2010_005118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>406</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>420</xmax>
 			<xmin>40</xmin>
-			<ymax>339</ymax>
 			<ymin>85</ymin>
+			<xmax>420</xmax>
+			<ymax>339</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>210</xmax>
 			<xmin>155</xmin>
-			<ymax>365</ymax>
 			<ymin>182</ymin>
+			<xmax>210</xmax>
+			<ymax>365</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>190</xmax>
-			<xmin>141</xmin>
-			<ymax>345</ymax>
-			<ymin>188</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>188</ymin>
+			<xmax>190</xmax>
+			<ymax>345</ymax>
+		</bndbox>
 	</object>
-	<segmented>1</segmented>
-	<size>
-		<depth>3</depth>
-		<height>406</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2010</annotation>
-		<database>The VOC2010 Database</database>
-		<image>flickr</image>
-	</source>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>153</ymin>
+			<xmax>246</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
 </annotation>

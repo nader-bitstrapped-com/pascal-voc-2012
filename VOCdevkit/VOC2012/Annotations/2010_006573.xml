@@ -1,43 +1,62 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2010_006573.jpg</filename>
-	<folder>VOC2010</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2010_006573.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>262</xmax>
-			<xmin>115</xmin>
-			<ymax>225</ymax>
-			<ymin>75</ymin>
-		</bndbox>
-		<difficult>0</difficult>
 		<pose>Unspecified</pose>
-		<actions>
-			<phoning>0</phoning>
-			<playinginstrument>1</playinginstrument>
-			<reading>0</reading>
-			<ridingbike>0</ridingbike>
-			<ridinghorse>0</ridinghorse>
-			<running>0</running>
-			<takingphoto>0</takingphoto>
-			<usingcomputer>0</usingcomputer>
-			<walking>0</walking>
-			<jumping>0</jumping>
-			<other>0</other>
-		</actions>
-		<point>
-			<x>173</x>
-			<y>153</y>
-		</point>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>75</ymin>
+			<xmax>262</xmax>
+			<ymax>225</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>375</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2010</annotation>
-		<database>The VOC2010 Database</database>
-		<image>flickr</image>
-	</source>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>133</ymin>
+			<xmax>327</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>102</ymin>
+			<xmax>160</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>202</ymin>
+			<xmax>412</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
 </annotation>

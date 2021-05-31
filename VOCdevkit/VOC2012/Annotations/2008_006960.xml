@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2008_006960.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2008_006960.jpg</path>
 	<source>
-		<database>The VOC2008 Database</database>
-		<annotation>PASCAL VOC2008</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -14,67 +13,62 @@
 	<segmented>0</segmented>
 	<object>
 		<name>car</name>
-		<pose>Left</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>1</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>454</xmin>
 			<ymin>260</ymin>
 			<xmax>500</xmax>
 			<ymax>292</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>car</name>
-		<pose>Left</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>446</xmin>
 			<ymin>277</ymin>
 			<xmax>500</xmax>
 			<ymax>327</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>356</xmin>
-			<ymin>229</ymin>
-			<xmax>388</xmax>
+			<ymin>224</ymin>
+			<xmax>387</xmax>
 			<ymax>298</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Right</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>399</xmin>
 			<ymin>229</ymin>
 			<xmax>423</xmax>
 			<ymax>298</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>137</xmin>
 			<ymin>99</ymin>
-			<xmax>388</xmax>
+			<xmax>390</xmax>
 			<ymax>332</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 </annotation>

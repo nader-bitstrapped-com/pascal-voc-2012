@@ -1,21 +1,20 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2007_009687.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2007_009687.jpg</path>
 	<source>
-		<database>The VOC2007 Database</database>
-		<annotation>PASCAL VOC2007</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
 		<height>375</height>
 		<depth>3</depth>
 	</size>
-	<segmented>1</segmented>
+	<segmented>0</segmented>
 	<object>
 		<name>person</name>
-		<pose>Frontal</pose>
-		<truncated>0</truncated>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>262</xmin>
@@ -26,12 +25,12 @@
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>75</ymin>
+			<ymin>70</ymin>
 			<xmax>278</xmax>
 			<ymax>375</ymax>
 		</bndbox>

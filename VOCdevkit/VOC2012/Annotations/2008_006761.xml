@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2008_006761.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2008_006761.jpg</path>
 	<source>
-		<database>The VOC2008 Database</database>
-		<annotation>PASCAL VOC2008</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -14,54 +13,50 @@
 	<segmented>0</segmented>
 	<object>
 		<name>aeroplane</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>39</ymin>
 			<xmax>500</xmax>
 			<ymax>349</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Right</pose>
-		<truncated>0</truncated>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>89</xmin>
-			<ymin>218</ymin>
-			<xmax>111</xmax>
-			<ymax>267</ymax>
-		</bndbox>
-		<difficult>1</difficult>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Frontal</pose>
-		<truncated>0</truncated>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>46</xmin>
-			<ymin>204</ymin>
-			<xmax>53</xmax>
-			<ymax>230</ymax>
-		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>242</ymin>
+			<xmin>89</xmin>
+			<ymin>215</ymin>
+			<xmax>115</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>203</ymin>
+			<xmax>53</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>234</ymin>
 			<xmax>168</xmax>
 			<ymax>269</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 </annotation>

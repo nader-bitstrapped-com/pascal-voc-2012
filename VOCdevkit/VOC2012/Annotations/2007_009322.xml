@@ -1,21 +1,20 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2007_009322.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2007_009322.jpg</path>
 	<source>
-		<database>The VOC2007 Database</database>
-		<annotation>PASCAL VOC2007</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
 		<height>333</height>
 		<depth>3</depth>
 	</size>
-	<segmented>1</segmented>
+	<segmented>0</segmented>
 	<object>
 		<name>motorbike</name>
-		<pose>Rear</pose>
-		<truncated>1</truncated>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>298</xmin>
@@ -26,13 +25,13 @@
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
-		<truncated>1</truncated>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>305</xmin>
-			<ymin>207</ymin>
-			<xmax>352</xmax>
+			<xmin>302</xmin>
+			<ymin>204</ymin>
+			<xmax>355</xmax>
 			<ymax>306</ymax>
 		</bndbox>
 	</object>
@@ -51,7 +50,7 @@
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>31</xmin>
@@ -63,7 +62,7 @@
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>72</xmin>
@@ -75,7 +74,7 @@
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>119</xmin>
@@ -87,7 +86,7 @@
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>140</xmin>
@@ -99,7 +98,7 @@
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>154</xmin>
@@ -111,7 +110,7 @@
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>1</difficult>
 		<bndbox>
 			<xmin>273</xmin>
@@ -122,7 +121,7 @@
 	</object>
 	<object>
 		<name>bus</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>

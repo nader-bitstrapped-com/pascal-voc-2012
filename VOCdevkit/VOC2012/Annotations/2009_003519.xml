@@ -1,41 +1,38 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2009_003519.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2009_003519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>bicycle</name>
-		<bndbox>
-			<xmax>422</xmax>
-			<xmin>74</xmin>
-			<ymax>375</ymax>
-			<ymin>66</ymin>
-		</bndbox>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Right</pose>
-		<truncated>0</truncated>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>66</ymin>
+			<xmax>422</xmax>
+			<ymax>375</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>500</xmax>
-			<xmin>421</xmin>
-			<ymax>182</ymax>
-			<ymin>23</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Right</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>16</ymin>
+			<xmax>500</xmax>
+			<ymax>182</ymax>
+		</bndbox>
 	</object>
-	<segmented>1</segmented>
-	<size>
-		<depth>3</depth>
-		<height>375</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2009</annotation>
-		<database>The VOC2009 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

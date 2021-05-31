@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2008_007409.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2008_007409.jpg</path>
 	<source>
-		<database>The VOC2008 Database</database>
-		<annotation>PASCAL VOC2008</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -14,132 +13,134 @@
 	<segmented>0</segmented>
 	<object>
 		<name>aeroplane</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>150</xmin>
 			<ymin>112</ymin>
 			<xmax>326</xmax>
 			<ymax>201</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>car</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>422</xmin>
 			<ymin>161</ymin>
 			<xmax>500</xmax>
 			<ymax>259</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Left</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>368</xmin>
-			<ymin>173</ymin>
+			<ymin>168</ymin>
 			<xmax>384</xmax>
 			<ymax>205</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>56</xmin>
-			<ymin>164</ymin>
+			<xmin>55</xmin>
+			<ymin>159</ymin>
 			<xmax>77</xmax>
 			<ymax>226</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>172</ymin>
+			<xmin>20</xmin>
+			<ymin>164</ymin>
 			<xmax>42</xmax>
 			<ymax>228</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>car</name>
-		<pose>Right</pose>
-		<truncated>1</truncated>
-		<occluded>1</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>37</xmin>
 			<ymin>177</ymin>
 			<xmax>63</xmax>
 			<ymax>192</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Right</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>107</xmin>
-			<ymin>173</ymin>
+			<xmin>104</xmin>
+			<ymin>169</ymin>
 			<xmax>131</xmax>
 			<ymax>218</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Right</pose>
-		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>132</xmin>
-			<ymin>169</ymin>
-			<xmax>141</xmax>
+			<xmin>129</xmin>
+			<ymin>162</ymin>
+			<xmax>142</xmax>
 			<ymax>197</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>motorbike</name>
-		<pose>Right</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>97</xmin>
 			<ymin>192</ymin>
 			<xmax>151</xmax>
 			<ymax>223</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>1</xmin>
-			<ymin>171</ymin>
+			<ymin>166</ymin>
 			<xmax>8</xmax>
 			<ymax>228</ymax>
 		</bndbox>
-		<difficult>1</difficult>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>161</ymin>
+			<xmax>270</xmax>
+			<ymax>210</ymax>
+		</bndbox>
 	</object>
 </annotation>

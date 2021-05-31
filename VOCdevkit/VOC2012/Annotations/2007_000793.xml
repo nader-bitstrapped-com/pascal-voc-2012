@@ -1,20 +1,19 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2007_000793.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2007_000793.jpg</path>
 	<source>
-		<database>The VOC2007 Database</database>
-		<annotation>PASCAL VOC2007</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
 		<height>375</height>
 		<depth>3</depth>
 	</size>
-	<segmented>1</segmented>
+	<segmented>0</segmented>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -26,7 +25,7 @@
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -38,7 +37,7 @@
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -50,7 +49,7 @@
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -62,7 +61,7 @@
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -74,7 +73,7 @@
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -82,18 +81,6 @@
 			<ymin>107</ymin>
 			<xmax>114</xmax>
 			<ymax>159</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>100</xmin>
-			<ymin>78</ymin>
-			<xmax>190</xmax>
-			<ymax>282</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -110,7 +97,7 @@
 	</object>
 	<object>
 		<name>bicycle</name>
-		<pose>Left</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
@@ -122,7 +109,7 @@
 	</object>
 	<object>
 		<name>bus</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>

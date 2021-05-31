@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2008_007510.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2008_007510.jpg</path>
 	<source>
-		<database>The VOC2008 Database</database>
-		<annotation>PASCAL VOC2008</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -14,80 +13,74 @@
 	<segmented>0</segmented>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>93</xmin>
 			<ymin>163</ymin>
 			<xmax>141</xmax>
 			<ymax>307</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>25</xmin>
 			<ymin>166</ymin>
 			<xmax>74</xmax>
-			<ymax>301</ymax>
+			<ymax>302</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Rear</pose>
-		<truncated>1</truncated>
-		<occluded>1</occluded>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2</xmin>
 			<ymin>181</ymin>
 			<xmax>32</xmax>
 			<ymax>274</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>bicycle</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>84</xmin>
 			<ymin>233</ymin>
 			<xmax>139</xmax>
 			<ymax>332</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>bicycle</name>
-		<pose>Rear</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>27</xmin>
 			<ymin>229</ymin>
 			<xmax>73</xmax>
 			<ymax>317</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>bicycle</name>
-		<pose>Rear</pose>
-		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>1</xmin>
 			<ymin>232</ymin>
 			<xmax>40</xmax>
 			<ymax>305</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 </annotation>

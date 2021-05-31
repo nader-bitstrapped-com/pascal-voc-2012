@@ -1,21 +1,20 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2007_008072.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2007_008072.jpg</path>
 	<source>
-		<database>The VOC2007 Database</database>
-		<annotation>PASCAL VOC2007</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>450</width>
 		<height>325</height>
 		<depth>3</depth>
 	</size>
-	<segmented>1</segmented>
+	<segmented>0</segmented>
 	<object>
 		<name>diningtable</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>81</xmin>
@@ -27,12 +26,12 @@
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>293</xmin>
-			<ymin>106</ymin>
-			<xmax>348</xmax>
+			<ymin>101</ymin>
+			<xmax>349</xmax>
 			<ymax>175</ymax>
 		</bndbox>
 	</object>
@@ -45,13 +44,13 @@
 			<xmin>385</xmin>
 			<ymin>109</ymin>
 			<xmax>450</xmax>
-			<ymax>182</ymax>
+			<ymax>224</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>272</xmin>
@@ -63,7 +62,7 @@
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>135</xmin>
@@ -75,7 +74,7 @@
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>189</xmin>
@@ -87,7 +86,7 @@
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>68</xmin>
@@ -123,7 +122,7 @@
 	<object>
 		<name>chair</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>1</difficult>
 		<bndbox>
 			<xmin>370</xmin>

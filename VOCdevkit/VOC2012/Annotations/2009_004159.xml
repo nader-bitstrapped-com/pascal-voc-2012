@@ -1,67 +1,74 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2009_004159.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2009_004159.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>train</name>
-		<bndbox>
-			<xmax>484</xmax>
-			<xmin>169</xmin>
-			<ymax>313</ymax>
-			<ymin>22</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>22</ymin>
+			<xmax>484</xmax>
+			<ymax>313</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>287</xmax>
-			<xmin>259</xmin>
-			<ymax>157</ymax>
-			<ymin>102</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
-		<truncated>1</truncated>
-	</object>
-	<object>
-		<name>pottedplant</name>
-		<bndbox>
-			<xmax>43</xmax>
-			<xmin>26</xmin>
-			<ymax>232</ymax>
-			<ymin>201</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>102</ymin>
+			<xmax>287</xmax>
+			<ymax>157</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>pottedplant</name>
-		<bndbox>
-			<xmax>173</xmax>
-			<xmin>147</xmin>
-			<ymax>203</ymax>
-			<ymin>172</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>201</ymin>
+			<xmax>43</xmax>
+			<ymax>232</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>333</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2009</annotation>
-		<database>The VOC2009 Database</database>
-		<image>flickr</image>
-	</source>
+	<object>
+		<name>pottedplant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>172</ymin>
+			<xmax>173</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>122</ymin>
+			<xmax>368</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
 </annotation>

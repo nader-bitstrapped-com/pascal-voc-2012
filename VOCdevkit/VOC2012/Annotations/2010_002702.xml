@@ -1,67 +1,74 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2010_002702.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2010_002702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>253</xmax>
-			<xmin>141</xmin>
-			<ymax>374</ymax>
-			<ymin>167</ymin>
-		</bndbox>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
-		<truncated>1</truncated>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>167</ymin>
+			<xmax>253</xmax>
+			<ymax>374</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>boat</name>
-		<bndbox>
-			<xmax>487</xmax>
-			<xmin>77</xmin>
-			<ymax>247</ymax>
-			<ymin>73</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Right</pose>
-		<truncated>1</truncated>
-	</object>
-	<object>
-		<name>car</name>
-		<bndbox>
-			<xmax>104</xmax>
-			<xmin>36</xmin>
-			<ymax>264</ymax>
-			<ymin>209</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>73</ymin>
+			<xmax>487</xmax>
+			<ymax>247</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>car</name>
-		<bndbox>
-			<xmax>35</xmax>
-			<xmin>1</xmin>
-			<ymax>273</ymax>
-			<ymin>231</ymin>
-		</bndbox>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>1</occluded>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>209</ymin>
+			<xmax>104</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>231</ymin>
+			<xmax>35</xmax>
+			<ymax>273</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>375</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2010</annotation>
-		<database>The VOC2010 Database</database>
-		<image>flickr</image>
-	</source>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>215</ymin>
+			<xmax>138</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
 </annotation>

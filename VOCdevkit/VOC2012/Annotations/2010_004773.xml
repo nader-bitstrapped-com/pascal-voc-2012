@@ -1,54 +1,50 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2010_004773.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2010_004773.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>242</xmax>
-			<xmin>206</xmin>
-			<ymax>374</ymax>
-			<ymin>333</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>333</ymin>
+			<xmax>242</xmax>
+			<ymax>374</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>286</xmax>
-			<xmin>250</xmin>
-			<ymax>367</ymax>
-			<ymin>289</ymin>
-		</bndbox>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Left</pose>
-		<truncated>1</truncated>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>284</ymin>
+			<xmax>286</xmax>
+			<ymax>367</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>boat</name>
-		<bndbox>
-			<xmax>375</xmax>
-			<xmin>35</xmin>
-			<ymax>403</ymax>
-			<ymin>1</ymin>
-		</bndbox>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Left</pose>
-		<truncated>0</truncated>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>1</ymin>
+			<xmax>372</xmax>
+			<ymax>387</ymax>
+		</bndbox>
 	</object>
-	<segmented>1</segmented>
-	<size>
-		<depth>3</depth>
-		<height>500</height>
-		<width>375</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2010</annotation>
-		<database>The VOC2010 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

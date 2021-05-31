@@ -1,54 +1,38 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2009_003821.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2009_003821.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>train</name>
-		<bndbox>
-			<xmax>211</xmax>
-			<xmin>1</xmin>
-			<ymax>375</ymax>
-			<ymin>193</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>193</ymin>
+			<xmax>211</xmax>
+			<ymax>375</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>bus</name>
-		<bndbox>
-			<xmax>246</xmax>
-			<xmin>223</xmin>
-			<ymax>308</ymax>
-			<ymin>286</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
-		<truncated>0</truncated>
-	</object>
-	<object>
-		<name>person</name>
-		<bndbox>
-			<xmax>194</xmax>
-			<xmin>184</xmin>
-			<ymax>312</ymax>
-			<ymin>293</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>286</ymin>
+			<xmax>246</xmax>
+			<ymax>308</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>500</height>
-		<width>330</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2009</annotation>
-		<database>The VOC2009 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

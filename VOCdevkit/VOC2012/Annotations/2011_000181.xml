@@ -1,41 +1,50 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2011_000181.jpg</filename>
-	<folder>VOC2012</folder>
-	<object>
-		<name>bus</name>
-		<bndbox>
-			<xmax>391</xmax>
-			<xmin>119</xmin>
-			<ymax>296</ymax>
-			<ymin>24</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
-		<truncated>0</truncated>
-	</object>
-	<object>
-		<name>bus</name>
-		<bndbox>
-			<xmax>124</xmax>
-			<xmin>1</xmin>
-			<ymax>234</ymax>
-			<ymin>139</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Right</pose>
-		<truncated>1</truncated>
-	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>321</height>
-		<width>500</width>
-	</size>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2011_000181.jpg</path>
 	<source>
-		<annotation>PASCAL VOC2011</annotation>
-		<database>The VOC2011 Database</database>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
+	<size>
+		<width>500</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>24</ymin>
+			<xmax>391</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>139</ymin>
+			<xmax>124</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>179</ymin>
+			<xmax>414</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
 </annotation>

@@ -1,41 +1,26 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2009_004648.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2009_004648.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>dog</name>
-		<bndbox>
-			<xmax>375</xmax>
-			<xmin>44</xmin>
-			<ymax>353</ymax>
-			<ymin>95</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Right</pose>
-		<truncated>1</truncated>
-	</object>
-	<object>
-		<name>person</name>
-		<bndbox>
-			<xmax>375</xmax>
-			<xmin>273</xmin>
-			<ymax>450</ymax>
-			<ymin>351</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>95</ymin>
+			<xmax>375</xmax>
+			<ymax>353</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>500</height>
-		<width>375</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2009</annotation>
-		<database>The VOC2009 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

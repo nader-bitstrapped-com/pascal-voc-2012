@@ -1,158 +1,146 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2010_001785.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2010_001785.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>diningtable</name>
-		<bndbox>
-			<xmax>440</xmax>
-			<xmin>64</xmin>
-			<ymax>375</ymax>
-			<ymin>181</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>181</ymin>
+			<xmax>440</xmax>
+			<ymax>375</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>bottle</name>
-		<bndbox>
-			<xmax>342</xmax>
-			<xmin>314</xmin>
-			<ymax>204</ymax>
-			<ymin>132</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>132</ymin>
+			<xmax>342</xmax>
+			<ymax>204</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>294</xmax>
 			<xmin>248</xmin>
-			<ymax>260</ymax>
 			<ymin>184</ymin>
+			<xmax>294</xmax>
+			<ymax>260</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>253</xmax>
 			<xmin>228</xmin>
-			<ymax>251</ymax>
 			<ymin>207</ymin>
+			<xmax>253</xmax>
+			<ymax>251</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
 		<bndbox>
+			<xmin>395</xmin>
+			<ymin>100</ymin>
 			<xmax>500</xmax>
-			<xmin>400</xmin>
 			<ymax>375</ymax>
-			<ymin>109</ymin>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Left</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>183</xmax>
 			<xmin>1</xmin>
-			<ymax>375</ymax>
 			<ymin>107</ymin>
+			<xmax>183</xmax>
+			<ymax>375</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Right</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>215</xmax>
 			<xmin>34</xmin>
-			<ymax>227</ymax>
 			<ymin>59</ymin>
+			<xmax>215</xmax>
+			<ymax>227</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>61</xmax>
 			<xmin>46</xmin>
-			<ymax>32</ymax>
 			<ymin>1</ymin>
+			<xmax>61</xmax>
+			<ymax>32</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>47</xmax>
 			<xmin>32</xmin>
-			<ymax>32</ymax>
 			<ymin>1</ymin>
+			<xmax>47</xmax>
+			<ymax>32</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>bottle</name>
-		<bndbox>
-			<xmax>30</xmax>
-			<xmin>9</xmin>
-			<ymax>34</ymax>
-			<ymin>1</ymin>
-		</bndbox>
-		<difficult>1</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>1</ymin>
+			<xmax>30</xmax>
+			<ymax>34</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>pottedplant</name>
-		<bndbox>
-			<xmax>376</xmax>
-			<xmin>301</xmin>
-			<ymax>204</ymax>
-			<ymin>133</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>133</ymin>
+			<xmax>376</xmax>
+			<ymax>204</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>375</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2010</annotation>
-		<database>The VOC2010 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

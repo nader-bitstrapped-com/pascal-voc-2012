@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2008_006818.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2008_006818.jpg</path>
 	<source>
-		<database>The VOC2008 Database</database>
-		<annotation>PASCAL VOC2008</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -16,26 +15,24 @@
 		<name>train</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>97</xmin>
 			<ymin>84</ymin>
 			<xmax>500</xmax>
 			<ymax>211</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>74</xmin>
-			<ymin>134</ymin>
+			<xmin>70</xmin>
+			<ymin>130</ymin>
 			<xmax>92</xmax>
 			<ymax>182</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 </annotation>

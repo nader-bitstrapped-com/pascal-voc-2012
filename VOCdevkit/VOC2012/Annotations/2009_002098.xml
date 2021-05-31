@@ -1,171 +1,158 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2009_002098.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2009_002098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>diningtable</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>342</xmax>
 			<xmin>285</xmin>
-			<ymax>262</ymax>
 			<ymin>202</ymin>
+			<xmax>342</xmax>
+			<ymax>262</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
+	</object>
+	<object>
+		<name>chair</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-	</object>
-	<object>
-		<name>chair</name>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>300</xmax>
 			<xmin>264</xmin>
-			<ymax>261</ymax>
 			<ymin>203</ymin>
+			<xmax>300</xmax>
+			<ymax>261</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Right</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>358</xmax>
 			<xmin>325</xmin>
-			<ymax>264</ymax>
 			<ymin>206</ymin>
+			<xmax>358</xmax>
+			<ymax>264</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Left</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>chair</name>
-		<bndbox>
-			<xmax>297</xmax>
-			<xmin>264</xmin>
-			<ymax>246</ymax>
-			<ymin>198</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Right</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>198</ymin>
+			<xmax>297</xmax>
+			<ymax>246</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>diningtable</name>
-		<bndbox>
-			<xmax>222</xmax>
-			<xmin>99</xmin>
-			<ymax>245</ymax>
-			<ymin>196</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>196</ymin>
+			<xmax>222</xmax>
+			<ymax>245</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>200</xmax>
 			<xmin>159</xmin>
-			<ymax>255</ymax>
 			<ymin>204</ymin>
+			<xmax>200</xmax>
+			<ymax>255</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Rear</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>156</xmax>
 			<xmin>120</xmin>
-			<ymax>242</ymax>
 			<ymin>200</ymin>
+			<xmax>156</xmax>
+			<ymax>242</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Rear</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>chair</name>
-		<bndbox>
-			<xmax>219</xmax>
-			<xmin>194</xmin>
-			<ymax>246</ymax>
-			<ymin>193</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-	</object>
-	<object>
-		<name>chair</name>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>174</xmax>
-			<xmin>150</xmin>
-			<ymax>202</ymax>
+			<xmin>194</xmin>
 			<ymin>193</ymin>
+			<xmax>219</xmax>
+			<ymax>246</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>chair</name>
-		<bndbox>
-			<xmax>135</xmax>
-			<xmin>114</xmin>
-			<ymax>197</ymax>
-			<ymin>191</ymin>
-		</bndbox>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
-		<truncated>1</truncated>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>193</ymin>
+			<xmax>174</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>191</ymin>
+			<xmax>135</xmax>
+			<ymax>197</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>379</xmax>
-			<xmin>350</xmin>
-			<ymax>205</ymax>
-			<ymin>177</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>177</ymin>
+			<xmax>379</xmax>
+			<ymax>205</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>chair</name>
-		<bndbox>
-			<xmax>373</xmax>
-			<xmin>334</xmin>
-			<ymax>201</ymax>
-			<ymin>177</ymin>
-		</bndbox>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Right</pose>
-		<truncated>1</truncated>
+		<bndbox>
+			<xmin>334</xmin>
+			<ymin>173</ymin>
+			<xmax>373</xmax>
+			<ymax>201</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>375</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2009</annotation>
-		<database>The VOC2009 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

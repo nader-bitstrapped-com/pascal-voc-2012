@@ -1,67 +1,62 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2009_004351.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2009_004351.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>189</xmax>
 			<xmin>102</xmin>
-			<ymax>249</ymax>
 			<ymin>188</ymin>
+			<xmax>189</xmax>
+			<ymax>249</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Left</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>78</xmax>
 			<xmin>13</xmin>
-			<ymax>237</ymax>
 			<ymin>186</ymin>
+			<xmax>78</xmax>
+			<ymax>237</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Left</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>cow</name>
-		<bndbox>
-			<xmax>130</xmax>
-			<xmin>78</xmin>
-			<ymax>215</ymax>
-			<ymin>185</ymin>
-		</bndbox>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Left</pose>
-		<truncated>1</truncated>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>185</ymin>
+			<xmax>130</xmax>
+			<ymax>215</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>478</xmax>
-			<xmin>392</xmin>
-			<ymax>269</ymax>
-			<ymin>175</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Left</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>169</ymin>
+			<xmax>478</xmax>
+			<ymax>269</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>332</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2009</annotation>
-		<database>The VOC2009 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

@@ -1,106 +1,62 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2009_003895.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2009_003895.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>tvmonitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>163</xmax>
 			<xmin>8</xmin>
-			<ymax>255</ymax>
 			<ymin>111</ymin>
+			<xmax>163</xmax>
+			<ymax>255</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>tvmonitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>336</xmax>
 			<xmin>157</xmin>
-			<ymax>289</ymax>
 			<ymin>115</ymin>
+			<xmax>336</xmax>
+			<ymax>289</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>tvmonitor</name>
-		<bndbox>
-			<xmax>264</xmax>
-			<xmin>151</xmin>
-			<ymax>38</ymax>
-			<ymin>1</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>1</ymin>
+			<xmax>264</xmax>
+			<ymax>38</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>500</xmax>
 			<xmin>364</xmin>
-			<ymax>149</ymax>
 			<ymin>36</ymin>
+			<xmax>500</xmax>
+			<ymax>149</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
-	<object>
-		<name>person</name>
-		<bndbox>
-			<xmax>138</xmax>
-			<xmin>128</xmin>
-			<ymax>169</ymax>
-			<ymin>149</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-	</object>
-	<object>
-		<name>person</name>
-		<bndbox>
-			<xmax>134</xmax>
-			<xmin>119</xmin>
-			<ymax>171</ymax>
-			<ymin>151</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-	</object>
-	<object>
-		<name>chair</name>
-		<bndbox>
-			<xmax>115</xmax>
-			<xmin>1</xmin>
-			<ymax>131</ymax>
-			<ymin>63</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-	</object>
-	<segmented>1</segmented>
-	<size>
-		<depth>3</depth>
-		<height>375</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2009</annotation>
-		<database>The VOC2009 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

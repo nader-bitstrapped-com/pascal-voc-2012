@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2008_002148.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2008_002148.jpg</path>
 	<source>
-		<database>The VOC2008 Database</database>
-		<annotation>PASCAL VOC2008</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>405</width>
@@ -16,26 +15,24 @@
 		<name>chair</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2</xmin>
 			<ymin>21</ymin>
 			<xmax>399</xmax>
 			<ymax>400</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>18</xmin>
-			<ymin>45</ymin>
-			<xmax>291</xmax>
+			<ymin>38</ymin>
+			<xmax>303</xmax>
 			<ymax>386</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 </annotation>

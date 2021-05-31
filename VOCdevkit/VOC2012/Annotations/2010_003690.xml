@@ -1,41 +1,26 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2010_003690.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2010_003690.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>dog</name>
-		<bndbox>
-			<xmax>375</xmax>
-			<xmin>225</xmin>
-			<ymax>285</ymax>
-			<ymin>135</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-	</object>
-	<object>
-		<name>person</name>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>395</xmax>
-			<xmin>32</xmin>
-			<ymax>336</ymax>
-			<ymin>1</ymin>
+			<xmin>225</xmin>
+			<ymin>135</ymin>
+			<xmax>375</xmax>
+			<ymax>285</ymax>
 		</bndbox>
-		<difficult>1</difficult>
-		<occluded>1</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>375</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2010</annotation>
-		<database>The VOC2010 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

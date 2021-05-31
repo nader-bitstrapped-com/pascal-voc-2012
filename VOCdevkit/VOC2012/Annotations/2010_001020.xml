@@ -1,93 +1,86 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2010_001020.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2010_001020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>aeroplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>414</xmax>
 			<xmin>150</xmin>
-			<ymax>275</ymax>
 			<ymin>91</ymin>
+			<xmax>414</xmax>
+			<ymax>275</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Frontal</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>396</xmax>
 			<xmin>378</xmin>
-			<ymax>229</ymax>
 			<ymin>195</ymin>
+			<xmax>396</xmax>
+			<ymax>229</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
 		<bndbox>
+			<xmin>197</xmin>
+			<ymin>239</ymin>
 			<xmax>213</xmax>
-			<xmin>202</xmin>
 			<ymax>270</ymax>
-			<ymin>244</ymin>
 		</bndbox>
-		<difficult>1</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
 		<bndbox>
+			<xmin>166</xmin>
+			<ymin>204</ymin>
 			<xmax>177</xmax>
-			<xmin>169</xmin>
 			<ymax>231</ymax>
-			<ymin>207</ymin>
 		</bndbox>
-		<difficult>1</difficult>
-		<occluded>0</occluded>
+	</object>
+	<object>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-	</object>
-	<object>
-		<name>person</name>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmax>127</xmax>
 			<xmin>112</xmin>
-			<ymax>296</ymax>
 			<ymin>270</ymin>
+			<xmax>127</xmax>
+			<ymax>296</ymax>
 		</bndbox>
-		<difficult>1</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>116</xmax>
-			<xmin>103</xmin>
-			<ymax>294</ymax>
-			<ymin>268</ymin>
-		</bndbox>
-		<difficult>1</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>267</ymin>
+			<xmax>114</xmax>
+			<ymax>294</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>333</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2010</annotation>
-		<database>The VOC2010 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

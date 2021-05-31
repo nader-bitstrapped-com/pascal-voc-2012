@@ -1,54 +1,38 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2009_004051.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2009_004051.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>cat</name>
-		<bndbox>
-			<xmax>418</xmax>
-			<xmin>109</xmin>
-			<ymax>358</ymax>
-			<ymin>57</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-	</object>
-	<object>
-		<name>person</name>
-		<bndbox>
-			<xmax>89</xmax>
-			<xmin>30</xmin>
-			<ymax>288</ymax>
-			<ymin>239</ymin>
-		</bndbox>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>57</ymin>
+			<xmax>418</xmax>
+			<ymax>358</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>pottedplant</name>
-		<bndbox>
-			<xmax>78</xmax>
-			<xmin>1</xmin>
-			<ymax>269</ymax>
-			<ymin>87</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>87</ymin>
+			<xmax>78</xmax>
+			<ymax>269</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>380</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2009</annotation>
-		<database>The VOC2009 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

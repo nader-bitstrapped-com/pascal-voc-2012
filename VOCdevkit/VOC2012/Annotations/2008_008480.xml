@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2008_008480.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2008_008480.jpg</path>
 	<source>
-		<database>The VOC2008 Database</database>
-		<annotation>PASCAL VOC2008</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -14,119 +13,122 @@
 	<segmented>0</segmented>
 	<object>
 		<name>bicycle</name>
-		<pose>Left</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>0</difficult>
 		<bndbox>
 			<xmin>111</xmin>
 			<ymin>195</ymin>
 			<xmax>139</xmax>
 			<ymax>222</ymax>
 		</bndbox>
-		<difficult>0</difficult>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>1</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>130</xmin>
 			<ymin>188</ymin>
 			<xmax>150</xmax>
 			<ymax>220</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>249</xmin>
 			<ymin>184</ymin>
 			<xmax>262</xmax>
 			<ymax>217</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>324</xmin>
 			<ymin>196</ymin>
 			<xmax>335</xmax>
 			<ymax>210</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>472</xmin>
 			<ymin>191</ymin>
 			<xmax>500</xmax>
 			<ymax>231</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>car</name>
-		<pose>Frontal</pose>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<occluded>0</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>460</xmin>
 			<ymin>196</ymin>
 			<xmax>472</xmax>
 			<ymax>205</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<occluded>1</occluded>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>239</xmin>
 			<ymin>193</ymin>
 			<xmax>251</xmax>
 			<ymax>217</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<occluded>1</occluded>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>362</xmin>
 			<ymin>194</ymin>
 			<xmax>371</xmax>
 			<ymax>208</ymax>
 		</bndbox>
-		<difficult>1</difficult>
 	</object>
 	<object>
 		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<occluded>0</occluded>
+		<difficult>1</difficult>
 		<bndbox>
 			<xmin>493</xmin>
 			<ymin>200</ymin>
 			<xmax>500</xmax>
 			<ymax>250</ymax>
 		</bndbox>
-		<difficult>1</difficult>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>346</xmin>
+			<ymin>194</ymin>
+			<xmax>356</xmax>
+			<ymax>208</ymax>
+		</bndbox>
 	</object>
 </annotation>

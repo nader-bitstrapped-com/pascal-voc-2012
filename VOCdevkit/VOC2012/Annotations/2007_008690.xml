@@ -1,10 +1,9 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2007_008690.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2007_008690.jpg</path>
 	<source>
-		<database>The VOC2007 Database</database>
-		<annotation>PASCAL VOC2007</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
@@ -15,31 +14,13 @@
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<part>
-			<name>hand</name>
-			<bndbox>
-				<xmin>166</xmin>
-				<ymin>242</ymin>
-				<xmax>221</xmax>
-				<ymax>272</ymax>
-			</bndbox>
-		</part>
-		<part>
-			<name>head</name>
-			<bndbox>
-				<xmin>212</xmin>
-				<ymin>15</ymin>
-				<xmax>282</xmax>
-				<ymax>89</ymax>
-			</bndbox>
-		</part>
 		<bndbox>
-			<xmin>147</xmin>
+			<xmin>143</xmin>
 			<ymin>14</ymin>
 			<xmax>337</xmax>
-			<ymax>267</ymax>
+			<ymax>268</ymax>
 		</bndbox>
 	</object>
 </annotation>

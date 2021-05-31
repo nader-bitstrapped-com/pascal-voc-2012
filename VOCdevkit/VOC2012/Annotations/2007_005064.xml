@@ -1,17 +1,16 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2007_005064.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2007_005064.jpg</path>
 	<source>
-		<database>The VOC2007 Database</database>
-		<annotation>PASCAL VOC2007</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
 		<height>375</height>
 		<depth>3</depth>
 	</size>
-	<segmented>1</segmented>
+	<segmented>0</segmented>
 	<object>
 		<name>bicycle</name>
 		<pose>Unspecified</pose>
@@ -31,8 +30,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>251</xmin>
-			<ymin>108</ymin>
-			<xmax>332</xmax>
+			<ymin>104</ymin>
+			<xmax>344</xmax>
 			<ymax>259</ymax>
 		</bndbox>
 	</object>

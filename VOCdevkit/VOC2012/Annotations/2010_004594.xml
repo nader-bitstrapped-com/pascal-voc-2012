@@ -1,132 +1,122 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2010_004594.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2010_004594.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>bus</name>
-		<bndbox>
-			<xmax>328</xmax>
-			<xmin>143</xmin>
-			<ymax>311</ymax>
-			<ymin>116</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>116</ymin>
+			<xmax>328</xmax>
+			<ymax>311</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>bus</name>
-		<bndbox>
-			<xmax>375</xmax>
-			<xmin>312</xmin>
-			<ymax>383</ymax>
-			<ymin>47</ymin>
-		</bndbox>
-		<difficult>1</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>47</ymin>
+			<xmax>375</xmax>
+			<ymax>383</ymax>
+		</bndbox>
 	</object>
 	<object>
 		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>284</xmax>
 			<xmin>201</xmin>
-			<ymax>363</ymax>
 			<ymin>268</ymin>
+			<xmax>284</xmax>
+			<ymax>363</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Rear</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>152</xmax>
 			<xmin>1</xmin>
-			<ymax>500</ymax>
 			<ymin>210</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-	</object>
-	<object>
-		<name>person</name>
-		<bndbox>
-			<xmax>280</xmax>
-			<xmin>128</xmin>
+			<xmax>152</xmax>
 			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
 			<ymin>262</ymin>
+			<xmax>280</xmax>
+			<ymax>500</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Rear</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>313</xmax>
 			<xmin>260</xmin>
-			<ymax>400</ymax>
 			<ymin>265</ymin>
+			<xmax>313</xmax>
+			<ymax>400</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<pose>Rear</pose>
-		<truncated>0</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmax>173</xmax>
 			<xmin>105</xmin>
-			<ymax>362</ymax>
 			<ymin>250</ymin>
+			<xmax>173</xmax>
+			<ymax>362</ymax>
 		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmax>32</xmax>
 			<xmin>1</xmin>
-			<ymax>302</ymax>
 			<ymin>230</ymin>
+			<xmax>32</xmax>
+			<ymax>302</ymax>
 		</bndbox>
-		<difficult>1</difficult>
-		<occluded>1</occluded>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
 	</object>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>140</xmax>
-			<xmin>132</xmin>
-			<ymax>256</ymax>
-			<ymin>242</ymin>
-		</bndbox>
-		<difficult>1</difficult>
-		<occluded>0</occluded>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>236</ymin>
+			<xmax>140</xmax>
+			<ymax>256</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>500</height>
-		<width>375</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2010</annotation>
-		<database>The VOC2010 Database</database>
-		<image>flickr</image>
-	</source>
 </annotation>

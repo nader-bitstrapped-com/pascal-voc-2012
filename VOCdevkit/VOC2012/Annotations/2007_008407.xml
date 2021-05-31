@@ -1,17 +1,16 @@
 <annotation>
-	<folder>VOC2012</folder>
+	<folder>JPEGImages</folder>
 	<filename>2007_008407.jpg</filename>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2007_008407.jpg</path>
 	<source>
-		<database>The VOC2007 Database</database>
-		<annotation>PASCAL VOC2007</annotation>
-		<image>flickr</image>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>500</width>
 		<height>375</height>
 		<depth>3</depth>
 	</size>
-	<segmented>1</segmented>
+	<segmented>0</segmented>
 	<object>
 		<name>tvmonitor</name>
 		<pose>Unspecified</pose>
@@ -39,7 +38,7 @@
 	<object>
 		<name>chair</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>350</xmin>
@@ -67,8 +66,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>146</xmin>
-			<ymin>131</ymin>
-			<xmax>350</xmax>
+			<ymin>126</ymin>
+			<xmax>354</xmax>
 			<ymax>375</ymax>
 		</bndbox>
 	</object>

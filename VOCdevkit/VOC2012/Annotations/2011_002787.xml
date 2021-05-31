@@ -1,46 +1,38 @@
 <annotation>
+	<folder>JPEGImages</folder>
 	<filename>2011_002787.jpg</filename>
-	<folder>VOC2012</folder>
+	<path>/home/sidorela/Downloads/PascalVOC2012/VOC2012/JPEGImages/2011_002787.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
 	<object>
 		<name>person</name>
-		<bndbox>
-			<xmax>500</xmax>
-			<xmin>299</xmin>
-			<ymax>333</ymax>
-			<ymin>95</ymin>
-		</bndbox>
-		<difficult>0</difficult>
-		<occluded>1</occluded>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
-		<part>
-			<name>head</name>
-			<bndbox>
-				<xmin>424</xmin>
-				<ymin>128</ymin>
-				<xmax>500</xmax>
-				<ymax>201</ymax>
-			</bndbox>
-		</part>
-		<part>
-			<name>hand</name>
-			<bndbox>
-				<xmin>307</xmin>
-				<ymin>95</ymin>
-				<xmax>343</xmax>
-				<ymax>135</ymax>
-			</bndbox>
-		</part>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>95</ymin>
+			<xmax>500</xmax>
+			<ymax>333</ymax>
+		</bndbox>
 	</object>
-	<segmented>0</segmented>
-	<size>
-		<depth>3</depth>
-		<height>333</height>
-		<width>500</width>
-	</size>
-	<source>
-		<annotation>PASCAL VOC2011</annotation>
-		<database>The VOC2011 Database</database>
-		<image>flickr</image>
-	</source>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>111</ymin>
+			<xmax>344</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
 </annotation>
